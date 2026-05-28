@@ -1,0 +1,32 @@
+aid: they-said-so-quotes
+name: They Said So Quotes
+description: "Quotes Trusted by many fortune brands around the world"
+url: https://theysaidso.com/api/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Personality"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Personality
+  - Public APIs
+apis:
+  - name: They Said So Quotes
+    description: "Quotes Trusted by many fortune brands around the world"
+    humanURL: https://theysaidso.com/api/
+    baseURL: https://theysaidso.com/api/
+    tags:
+      - Personality
+    properties:
+      - type: Documentation
+        url: https://theysaidso.com/api/
+common:
+  - type: Website
+    url: https://theysaidso.com/api/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
