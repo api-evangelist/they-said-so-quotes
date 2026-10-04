@@ -39,7 +39,6 @@ apis:
   - name: They Said So Quotes
     description: "Quotes Trusted by many fortune brands around the world"
     humanURL: https://theysaidso.com/api/
-    baseURL: https://theysaidso.com/api/
     tags:
       - Personality
     properties:
